@@ -1,6 +1,10 @@
-// Parental Cross - AA x aa
-// Hybrid Cross - Aa x Aa
-// Testcross - Aa x aa
+// Three basic monohybrid crosses
+// 1. Parental Cross - AA x aa (homozygous dominant x homozygous recessive)
+//                     F1 all Aa (heterozygous dominant)
+// 2. Hybrid Cross - Aa x Aa (heterozygous x heterozygous)
+//                   F1 ¾A_ + ¼aa
+// 3. Testcross - A_ x aa (unknown genotype x homozygous recessive)
+//                F1 either all Aa || ½Aa + ½aa
 
 let parent1 = 'Pp'; // represents a genotype
 let parent2 = 'Pp';
